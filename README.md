@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Rafael - The creator of Terminals and Coffee LLC
+### Hi there 👋 I'm Rafael - The creator of Terminals and Coffee LLC - Cloud & DevOps Engineer | AWS Certified SysOps/Security | Terraform IaC Specialist | Automating Multi-Cloud Infra with GitHub Actions.
 - 🚀 Passionate about DevOps, Cloud Security, and Automation
-- 🌱 My main focus is currently Terraform and Kubernetes. 
+- 🌱 My main focus is currently Terraform, Kubernetes, and CI/CD. 
 - 📫 Check out my websites https://madebyraf.tech | https://medium.com/@terminalsandcoffee
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
