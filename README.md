@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Rafael - The creator of Terminals and Coffee LLC
 - 🚀 Passionate about DevOps, Cloud Security, and Automation
-- 🌱 Currently working on DevSecOps projects, with proven experience as a Cloud Engineer
+- 🌱 My main focus is currently Terraform and Kubernetes. 
 - 📫 Check out my websites https://madebyraf.tech | https://medium.com/@terminalsandcoffee
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
