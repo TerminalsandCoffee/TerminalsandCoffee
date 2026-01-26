@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Rafael - The creator of Terminals and Coffee LLC - Cloud Security Engineer | AWS Certified SysOps/Security | Terraform IaC Specialist 
 - Passionate about Cloud Security, and automating all the things.
-- My main focus is currently purple team knowledge and experience. Pentesting Web Apps/API's and defending against those attacks. 
+- I'm currently focused on adding Security to my DevOps knowledge and learning how to leaverage AI/AI agents to stay ahead of the curve. 
 - Check out my websites https://madebyraf.tech | https://medium.com/@terminalsandcoffee
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
