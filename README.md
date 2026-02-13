@@ -1,35 +1,30 @@
-### Hi there 👋 I'm Rafael - The creator of Terminals and Coffee LLC - Cloud Security Engineer | AWS Certified SysOps/Security | Terraform IaC Specialist 
-- Passionate about Cloud Security, and automating all the things.
-- I'm currently focused on adding Security to my DevOps knowledge and learning how to leaverage AI/AI agents to stay ahead of the curve. 
-- Check out my websites https://madebyraf.tech | https://medium.com/@terminalsandcoffee
+# Rafael Martinez
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+**Cloud Security Engineer | Building Security Tools & AI Defense Systems**
 
-Find out more about me & feel free to connect with me here:
+I build security tools that solve real problems — from LLM security proxies to network intrusion detection to shadow AI discovery. Creator of [Terminals and Coffee](https://madebyraf.tech), where I ship cybersecurity guides and courses on Gumroad.
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
+## What I'm Building
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Martinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rgmllc/)](https://www.linkedin.com/in/rgmartinez-cloud/)
-[![Medium Badge](https://img.shields.io/badge/Rafael%20Martinez-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@terminalsandcoffee/)](https://medium.com/@terminalsandcoffee)
-[![Gmail Badge](https://img.shields.io/badge/-/rafael@terminalsandcoffee.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rgm@RafaelMartinez.cloud)](mailto:rafael@terminalsandcoffee.com)
+| Project | What It Does |
+|---------|-------------|
+| [LLM Security Gateway](https://github.com/TerminalsandCoffee/llm-security-gateway) | Security proxy for LLM APIs — injection detection, PII scanning, SSE streaming, multi-provider (OpenAI + Bedrock), Terraform + CI/CD |
+| [Shadow AI Hunter](https://github.com/TerminalsandCoffee/shadow-ai-hunter) | Go CLI that detects unauthorized AI service usage across proxy/DNS/firewall logs — 45+ AI services, 130+ domains |
+| [Detection Engineering Lab](https://github.com/TerminalsandCoffee/detection-engineering-lab) | Wazuh-based detection rules with CI/CD pipeline and documentation |
 
-## ⚡ Technologies
+## Tech Stack
 
-## Overall Github Metrics 📊
+**Languages:** Python, Go, Bash, PowerShell, HCL
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TerminalsandCoffee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerminalsandCoffee&layout=compact&langs_count=7&theme=dark"/>
-</div>
+**Cloud & Infra:** AWS (Lambda, API Gateway, Bedrock, DynamoDB, CloudWatch), Terraform, GitHub Actions CI/CD
 
-### Stats
-- ⭐ Total Stars: ![GitHub stars](https://img.shields.io/github/stars/TerminalsandCoffee?style=flat)
-- 💻 Total Commits: ![GitHub commits](https://img.shields.io/github/commit-activity/t/TerminalsandCoffee/TerminalsandCoffee)
-- 🔄 Total PRs: ![GitHub PRs](https://img.shields.io/github/issues-pr/TerminalsandCoffee/TerminalsandCoffee)
-- ⚡ Total Issues: ![GitHub issues](https://img.shields.io/github/issues/TerminalsandCoffee/TerminalsandCoffee)
-- 🤝 Contributed to: ![GitHub repos](https://img.shields.io/github/repos-search/TerminalsandCoffee?type=public)
+**Security:** Prompt injection detection, PII scanning, SIEM/detection engineering, network traffic analysis
 
-### Current Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TerminalsandCoffee&theme=dark)](https://git.io/streak-stats)
+**Frameworks:** FastAPI, httpx, boto3, Scapy
 
+## Connect
 
+[![LinkedIn](https://img.shields.io/badge/-Rafael%20Martinez-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rgmartinez-cloud/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@terminalsandcoffee)
+[![Gumroad](https://img.shields.io/badge/Gumroad-FF90E8?style=flat-square&logo=gumroad&logoColor=black)](https://terminalsandcoffee.gumroad.com)
+[![Email](https://img.shields.io/badge/-rafael@terminalsandcoffee.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:rafael@terminalsandcoffee.com)
