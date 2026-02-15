@@ -10,7 +10,7 @@ I build security tools that solve real problems — from LLM security proxies to
 |---------|-------------|
 | [LLM Security Gateway](https://github.com/TerminalsandCoffee/llm-security-gateway) | Security proxy for LLM APIs — injection detection, PII scanning, SSE streaming, multi-provider (OpenAI + Bedrock), Terraform + CI/CD |
 | [Shadow AI Hunter](https://github.com/TerminalsandCoffee/shadow-ai-hunter) | Go CLI that detects unauthorized AI service usage across proxy/DNS/firewall logs — 45+ AI services, 130+ domains |
-| [Detection Engineering Lab](https://github.com/TerminalsandCoffee/detection-engineering-lab) | Wazuh-based detection rules with CI/CD pipeline and documentation |
+| [Opencloaw Vault](https://github.com/TerminalsandCoffee/openclaw-vault) | A secure self-hosted AI assitant that uses that uses DevSecOps best practices. |
 
 ## Tech Stack
 
