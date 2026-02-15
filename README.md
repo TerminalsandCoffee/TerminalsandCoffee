@@ -1,6 +1,6 @@
-# Rafael Martinez - Recursive Self Improving Loops
+# Rafael Martinez
 
-**Cloud Security Engineer | Building Security Tools & AI Defense Systems**
+**Cloud Security Engineer | Building Security Tools & AI Defense Systems via Recursive Self Improving Loops**
 
 I build security tools that solve real problems — from LLM security proxies to network intrusion detection to shadow AI discovery. Creator of [Terminals and Coffee](https://madebyraf.tech), where I ship cybersecurity guides and courses on Gumroad.
 
