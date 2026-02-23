@@ -1,24 +1,24 @@
 # Rafael Martinez
 
-**Cloud Security Engineer | Building Security Tools & AI Defense Systems via Recursive Self Improving Loops**
+**Cloud Security Engineer | Building AI Security Tools & Shipping Cybersecurity Products**
 
-I build security tools that solve real problems — from LLM security proxies to network intrusion detection to shadow AI discovery. Creator of [Terminals and Coffee](https://madebyraf.tech), where I ship cybersecurity guides and courses on Gumroad.
+I build security tools that solve real problems — from LLM security proxies to AI threat modeling to secure cloud infrastructure. Creator of [Terminals and Coffee](https://terminalsandcoffee.gumroad.com), where I ship cybersecurity guides and courses on Gumroad.
 
 ## What I'm Building
 
 | Project | What It Does |
 |---------|-------------|
 | [LLM Security Gateway](https://github.com/TerminalsandCoffee/llm-security-gateway) | Security proxy for LLM APIs — injection detection, PII scanning, SSE streaming, multi-provider (OpenAI + Bedrock), Terraform + CI/CD |
-| [Shadow AI Hunter](https://github.com/TerminalsandCoffee/shadow-ai-hunter) | Go CLI that detects unauthorized AI service usage across proxy/DNS/firewall logs — 45+ AI services, 130+ domains |
-| [Opencloaw Vault](https://github.com/TerminalsandCoffee/openclaw-vault) | A secure self-hosted AI assitant that uses that uses DevSecOps best practices. |
+| [AI Security Architecture](https://github.com/TerminalsandCoffee/AI-Security-Architecture) | Practical guide to securing LLM-powered systems — threat landscape, attack techniques, secure design patterns, and reference architectures |
+| [OpenClaw Vault](https://github.com/TerminalsandCoffee/openclaw-vault) | Secure, self-hosted AI workspace deployed with Terraform — hardened EC2 instance following DevSecOps best practices |
 
 ## Tech Stack
 
-**Languages:** Python, Go, Bash, PowerShell, HCL
+**Languages:** Python, Bash, PowerShell, HCL
 
 **Cloud & Infra:** AWS (Lambda, API Gateway, Bedrock, DynamoDB, CloudWatch), Terraform, GitHub Actions CI/CD
 
-**Security:** Prompt injection detection, PII scanning, SIEM/detection engineering, network traffic analysis
+**Security:** LLM threat modeling, prompt injection detection, PII scanning, SIEM/detection engineering, network traffic analysis
 
 **Frameworks:** FastAPI, httpx, boto3, Scapy
 
