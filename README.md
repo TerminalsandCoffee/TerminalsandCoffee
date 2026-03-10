@@ -8,9 +8,9 @@ I build security tools that solve real problems — from LLM security proxies to
 
 | Project | What It Does |
 |---------|-------------|
-| [LLM Security Gateway](https://github.com/TerminalsandCoffee/llm-security-gateway) | Security proxy for LLM APIs — injection detection, PII scanning, SSE streaming, multi-provider (OpenAI + Bedrock), Terraform + CI/CD |
+| [AWS DevOps Portfolio](https://github.com/TerminalsandCoffee/aws-devops-portfolio) | Production-grade AWS projects — ECS Fargate, EKS, ArgoCD, Aurora migrations, self-healing Lambda. Terraform + GitHub Actions + Well-Architected Framework |
+| [AI Resume Template](https://github.com/TerminalsandCoffee/ai-resume-template) | Deploy a resume site with an AI chatbot that answers recruiter questions about you in real-time. One-click Vercel deploy |
 | [AI Security Architecture](https://github.com/TerminalsandCoffee/AI-Security-Architecture) | Practical guide to securing LLM-powered systems — threat landscape, attack techniques, secure design patterns, and reference architectures |
-| [OpenClaw Vault](https://github.com/TerminalsandCoffee/openclaw-vault) | Secure, self-hosted AI workspace deployed with Terraform — hardened EC2 instance following DevSecOps best practices |
 
 ## Tech Stack
 
