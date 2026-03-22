@@ -9,8 +9,11 @@ I build security tools that solve real problems — from LLM security proxies to
 | Project | What It Does |
 |---------|-------------|
 | [AWS DevOps Portfolio](https://github.com/TerminalsandCoffee/aws-devops-portfolio) | Production-grade AWS projects — ECS Fargate, EKS, ArgoCD, Aurora migrations, self-healing Lambda. Terraform + GitHub Actions + Well-Architected Framework |
-| [AI Resume Template](https://github.com/TerminalsandCoffee/ai-resume-template) | Deploy a resume site with an AI chatbot that answers recruiter questions about you in real-time. One-click Vercel deploy |
 | [AI Security Architecture](https://github.com/TerminalsandCoffee/AI-Security-Architecture) | Practical guide to securing LLM-powered systems — threat landscape, attack techniques, secure design patterns, and reference architectures |
+| [OpenClaw Vault](https://github.com/TerminalsandCoffee/openclaw-vault) | Secure, self-hosted AI workspace deployed with Terraform — hardened EC2 instance following DevSecOps best practices |
+| [Cloud Automation Projects](https://github.com/TerminalsandCoffee/CloudAutomationProjects) | Multi-cloud automation scripts in Python, PowerShell, and Bash — AWS EC2/S3/IAM, Windows Server management, Linux ops |
+| [Security Architecture Fundamentals](https://github.com/TerminalsandCoffee/security-architecture-fundamentals) | Practical security architecture reference — cloud design patterns, threat modeling, risk assessment, and framework mappings (NIST, CIS, MITRE) |
+| [Detection Engineering Lab](https://github.com/TerminalsandCoffee/detection-engineering-lab) | Hands-on detection-as-code lab — Wazuh SIEM rules with MITRE ATT&CK mappings, Terraform-deployed infra, threat emulation coverage |
 
 ## Tech Stack
 
