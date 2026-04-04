@@ -8,22 +8,22 @@ I build security tools that solve real problems — from LLM security proxies to
 
 | Project | What It Does |
 |---------|-------------|
+| [Multi-Cloud CSPM](https://github.com/TerminalsandCoffee/multi-cloud-cspm) | Enterprise security baseline for Azure + GCP — Sentinel, Defender, Firewall, NSG, SCC, Chronicle. NIST 800-53 + ISO 27001 control mappings. Terraform + OIDC CI/CD |
+| [Salvo CLI](https://github.com/TerminalsandCoffee/salvo-cli) | Bug bounty CLI in Go — recon (subfinder/httpx), repeater (single HTTP requests), and Intruder-style fuzzer with FUZZ keyword, all in one tool |
 | [AWS DevOps Portfolio](https://github.com/TerminalsandCoffee/aws-devops-portfolio) | Production-grade AWS projects — ECS Fargate, EKS, ArgoCD, Aurora migrations, self-healing Lambda. Terraform + GitHub Actions + Well-Architected Framework |
-| [AI Security Architecture](https://github.com/TerminalsandCoffee/AI-Security-Architecture) | Practical guide to securing LLM-powered systems — threat landscape, attack techniques, secure design patterns, and reference architectures |
-| [OpenClaw Deploy Zero Trust](https://github.com/TerminalsandCoffee/openclaw-deploy-zero-trust) | Zero-trust AI workspace on AWS — hardened EC2 via Terraform, Tailscale mesh, Secrets Manager, IMDSv2, auditd, fail2ban |
 | [Cloud Automation Projects](https://github.com/TerminalsandCoffee/CloudAutomationProjects) | Multi-cloud automation scripts in Python, PowerShell, and Bash — AWS EC2/S3/IAM, Windows Server management, Linux ops |
 | [Security Architecture Fundamentals](https://github.com/TerminalsandCoffee/security-architecture-fundamentals) | Practical security architecture reference — cloud design patterns, threat modeling, risk assessment, and framework mappings (NIST, CIS, MITRE) |
 | [Detection Engineering Lab](https://github.com/TerminalsandCoffee/detection-engineering-lab) | Hands-on detection-as-code lab — Wazuh SIEM rules with MITRE ATT&CK mappings, Terraform-deployed infra, threat emulation coverage |
 
 ## Tech Stack
 
-**Languages:** Python, Bash, PowerShell, HCL
+**Languages:** Python, Go, Bash, PowerShell, HCL
 
-**Cloud & Infra:** AWS (Lambda, API Gateway, Bedrock, DynamoDB, CloudWatch), Terraform, GitHub Actions CI/CD
+**Cloud & Infra:** AWS (Lambda, API Gateway, Bedrock, DynamoDB, CloudWatch), Azure (Sentinel, Defender, Firewall), GCP (SCC, Chronicle, KMS), Terraform, GitHub Actions CI/CD
 
-**Security:** LLM threat modeling, prompt injection detection, PII scanning, SIEM/detection engineering, network traffic analysis
+**Security:** LLM threat modeling, prompt injection detection, PII scanning, SIEM/detection engineering, network traffic analysis, bug bounty tooling
 
-**Frameworks:** FastAPI, httpx, boto3, Scapy
+**Frameworks:** FastAPI, httpx, boto3, Scapy, Cobra
 
 ## Connect
 
