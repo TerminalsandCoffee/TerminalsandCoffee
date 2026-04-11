@@ -4,14 +4,15 @@
 
 I build security tools that solve real problems — from LLM security proxies to AI threat modeling to secure cloud infrastructure. Creator of [Terminals and Coffee](https://terminalsandcoffee.gumroad.com), where I ship cybersecurity guides and courses on Gumroad.
 
-## What I'm Building
+## Active Projects
 
 | Project | What It Does |
 |---------|-------------|
 | [Multi-Cloud CSPM](https://github.com/TerminalsandCoffee/multi-cloud-cspm) | Enterprise security baseline for Azure + GCP — Sentinel, Defender, Firewall, NSG, SCC, Chronicle. NIST 800-53 + ISO 27001 control mappings. Terraform + OIDC CI/CD |
 | [Salvo CLI](https://github.com/TerminalsandCoffee/salvo-cli) | Bug bounty CLI in Go — recon (subfinder/httpx), repeater (single HTTP requests), and Intruder-style fuzzer with FUZZ keyword, all in one tool |
-| [AWS DevOps Portfolio](https://github.com/TerminalsandCoffee/aws-devops-portfolio) | Production-grade AWS projects — ECS Fargate, EKS, ArgoCD, Aurora migrations, self-healing Lambda. Terraform + GitHub Actions + Well-Architected Framework |
-| [Cloud Automation Projects](https://github.com/TerminalsandCoffee/CloudAutomationProjects) | Multi-cloud automation scripts in Python, PowerShell, and Bash — AWS EC2/S3/IAM, Windows Server management, Linux ops |
+| [AI Security Architecture](https://github.com/TerminalsandCoffee/AI-Security-Architecture) | Practical guide to securing LLM-powered systems — threat landscape, attack techniques, secure design patterns, and reference architectures |
+| [Web App Security Portfolio](https://github.com/TerminalsandCoffee/webapp-security-portfolio) | Hands-on web application security projects — vulnerability research, secure coding patterns, and offensive/defensive techniques |
+| [OpenClaw Deploy Zero Trust](https://github.com/TerminalsandCoffee/openclaw-deploy-zero-trust) | Zero-trust AI workspace on AWS — hardened EC2 via Terraform, Tailscale mesh, Secrets Manager, IMDSv2, auditd, fail2ban |
 | [Security Architecture Fundamentals](https://github.com/TerminalsandCoffee/security-architecture-fundamentals) | Practical security architecture reference — cloud design patterns, threat modeling, risk assessment, and framework mappings (NIST, CIS, MITRE) |
 | [Detection Engineering Lab](https://github.com/TerminalsandCoffee/detection-engineering-lab) | Hands-on detection-as-code lab — Wazuh SIEM rules with MITRE ATT&CK mappings, Terraform-deployed infra, threat emulation coverage |
 
