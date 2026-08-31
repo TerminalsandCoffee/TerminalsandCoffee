@@ -1,28 +1,52 @@
 # Rafael Martinez
 
-I build and share cybersecurity tools, with a focus on AI security, web application security, and API security.
+I build and break web applications, APIs, and AI systems.
 
-## Active Projects
+My work focuses on practical application security: building security controls, testing the assumptions behind them, reproducing failures, and turning the results into open-source tools, labs, and research.
 
-| Project | What It Does |
-|---------|-------------|
-| [Web App Security Portfolio](https://github.com/TerminalsandCoffee/webapp-security-portfolio) | Hands-on web application security projects — vulnerability research, secure coding patterns, and offensive/defensive techniques |
-| [Security Architecture Fundamentals](https://github.com/TerminalsandCoffee/security-architecture-fundamentals) | Practical security architecture reference — cloud design patterns, threat modeling, risk assessment, and framework mappings (NIST, CIS, MITRE) |
-| [Detection Engineering Lab](https://github.com/TerminalsandCoffee/detection-engineering-lab) | Hands-on detection-as-code lab — Wazuh SIEM rules with MITRE ATT&CK mappings, Terraform-deployed infra, threat emulation coverage |
+Currently building [Secure Cloud Academy](https://securecloudacademy.com/).
 
-## Tech Stack
+## AI Security
 
-**Languages:** Python, Go, Bash, PowerShell, HCL
+| Project | What it is |
+|---------|------------|
+| [llm-security-gateway](https://github.com/TerminalsandCoffee/llm-security-gateway) | Security gateway for LLM applications supporting prompt-injection detection, PII scanning/redaction, streaming, and AWS deployment with Terraform. |
+| [AI-Security-Architecture](https://github.com/TerminalsandCoffee/AI-Security-Architecture) | Practical AI security architecture covering threat modeling, OWASP LLM risks, jailbreaks, RAG, agents, and security program development. |
+| [openclaw-deploy-zero-trust](https://github.com/TerminalsandCoffee/openclaw-deploy-zero-trust) | Zero-trust AWS deployment for self-hosted AI agents using Tailscale, private access, managed secrets, and hardened EC2 configuration. |
 
-**Cloud & Infra:** AWS (Lambda, API Gateway, Bedrock, DynamoDB, CloudWatch), Azure (Sentinel, Defender, Firewall), GCP (SCC, Chronicle, KMS), Terraform, GitHub Actions CI/CD
+## Web & API Security
 
-**Security:** LLM threat modeling, prompt injection detection, PII scanning, SIEM/detection engineering, network traffic analysis, bug bounty tooling
+| Project | What it is |
+|---------|------------|
+| [salvo-cli](https://github.com/TerminalsandCoffee/salvo-cli) | Go-based offensive web security CLI combining reconnaissance, request replay, and automated fuzzing workflows. |
+| [webapp-security-portfolio](https://github.com/TerminalsandCoffee/webapp-security-portfolio) | Application security lab covering AWS WAF, OWASP attack scenarios, logging, analysis, and infrastructure as code. |
+| [detection-engineering-lab](https://github.com/TerminalsandCoffee/detection-engineering-lab) | Detection-as-code lab with Wazuh, MITRE ATT&CK-mapped detections, Terraform infrastructure, and CI validation. |
 
-**Frameworks:** FastAPI, httpx, boto3, Scapy, Cobra
+## Current Research
+
+I'm increasingly focused on AI-native application security — especially the places where model behavior, application logic, untrusted context, APIs, and security controls intersect.
+
+Areas I'm exploring include:
+
+- Prompt injection and instruction-boundary failures
+- Indirect prompt injection
+- LLM security control bypasses
+- Agent and tool-use security
+- API attack-surface discovery
+- Automated security testing for AI applications
+
+The goal is simple:
+
+**Build the control. Break the control. Understand why it broke. Make the test repeatable.**
+
+## How I Build
+
+Python · Go · Terraform · FastAPI · AWS · GitHub Actions
+
+Cloud infrastructure is the delivery system.
+
+The work is web, API, and AI security.
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Rafael%20Martinez-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rgmartinez-cloud/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@terminalsandcoffee)
-[![Gumroad](https://img.shields.io/badge/Gumroad-FF90E8?style=flat-square&logo=gumroad&logoColor=black)](https://terminalsandcoffee.gumroad.com)
-[![Email](https://img.shields.io/badge/-rafael@terminalsandcoffee.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:rafael@terminalsandcoffee.com)
+[LinkedIn](https://www.linkedin.com/in/rgmartinez-cloud/) · [Medium](https://medium.com/@terminalsandcoffee) · [Secure Cloud Academy](https://securecloudacademy.com/) · [rafael@terminalsandcoffee.com](mailto:rafael@terminalsandcoffee.com)
