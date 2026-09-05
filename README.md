@@ -12,13 +12,11 @@ Currently building [Secure Cloud Academy](https://securecloudacademy.com/).
 |---------|------------|
 | [llm-security-gateway](https://github.com/TerminalsandCoffee/llm-security-gateway) | Security gateway for LLM applications supporting prompt-injection detection, PII scanning/redaction, streaming, and AWS deployment with Terraform. |
 | [AI-Security-Architecture](https://github.com/TerminalsandCoffee/AI-Security-Architecture) | Practical AI security architecture covering threat modeling, OWASP LLM risks, jailbreaks, RAG, agents, and security program development. |
-| [openclaw-deploy-zero-trust](https://github.com/TerminalsandCoffee/openclaw-deploy-zero-trust) | Zero-trust AWS deployment for self-hosted AI agents using Tailscale, private access, managed secrets, and hardened EC2 configuration. |
 
 ## Web & API Security
 
 | Project | What it is |
 |---------|------------|
-| [salvo-cli](https://github.com/TerminalsandCoffee/salvo-cli) | Go-based offensive web security CLI combining reconnaissance, request replay, and automated fuzzing workflows. |
 | [webapp-security-portfolio](https://github.com/TerminalsandCoffee/webapp-security-portfolio) | Application security lab covering AWS WAF, OWASP attack scenarios, logging, analysis, and infrastructure as code. |
 | [detection-engineering-lab](https://github.com/TerminalsandCoffee/detection-engineering-lab) | Detection-as-code lab with Wazuh, MITRE ATT&CK-mapped detections, Terraform infrastructure, and CI validation. |
 
