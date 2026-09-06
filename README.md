@@ -12,6 +12,7 @@ Currently building [Secure Cloud Academy](https://securecloudacademy.com/).
 |---------|------------|
 | [llm-security-gateway](https://github.com/TerminalsandCoffee/llm-security-gateway) | Security gateway for LLM applications supporting prompt-injection detection, PII scanning/redaction, streaming, and AWS deployment with Terraform. |
 | [AI-Security-Architecture](https://github.com/TerminalsandCoffee/AI-Security-Architecture) | Practical AI security architecture covering threat modeling, OWASP LLM risks, jailbreaks, RAG, agents, and security program development. |
+| [secure-ai-agent-lab](https://github.com/TerminalsandCoffee/secure-ai-agent-lab) | Intentionally vulnerable tool-using support agent: five attacks, hardened redesign, and attack→control→retest evidence (local/mock only). |
 
 ## Web & API Security
 
