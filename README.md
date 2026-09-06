@@ -1,51 +1,25 @@
 # Rafael Martinez
 
-I build and break web applications, APIs, and AI systems.
+I build and test security controls for web applications, APIs, and AI systems.
 
-My work focuses on practical application security: building security controls, testing the assumptions behind them, reproducing failures, and turning the results into open-source tools, labs, and research.
+My focus is practical: understand the architecture, reproduce a failure, improve the control, and make the test repeatable.
 
-Currently building [Secure Cloud Academy](https://securecloudacademy.com/).
+## Selected work
 
-## AI Security
+| Project | Focus |
+|---|---|
+| [secure-ai-agent-lab](https://github.com/TerminalsandCoffee/secure-ai-agent-lab) | A local agent security lab with attacks, a hardened redesign, and attack-to-control retest evidence. |
+| [ai-security-architecture](https://github.com/TerminalsandCoffee/ai-security-architecture) | Threat modeling, trust boundaries, secure RAG and agent design, and architecture review exercises. |
+| [detection-engineering-lab](https://github.com/TerminalsandCoffee/detection-engineering-lab) | Wazuh detections mapped to MITRE ATT&CK, with infrastructure as code and validation tooling. |
 
-| Project | What it is |
-|---------|------------|
-| [llm-security-gateway](https://github.com/TerminalsandCoffee/llm-security-gateway) | Security gateway for LLM applications supporting prompt-injection detection, PII scanning/redaction, streaming, and AWS deployment with Terraform. |
-| [AI-Security-Architecture](https://github.com/TerminalsandCoffee/AI-Security-Architecture) | Practical AI security architecture covering threat modeling, OWASP LLM risks, jailbreaks, RAG, agents, and security program development. |
-| [secure-ai-agent-lab](https://github.com/TerminalsandCoffee/secure-ai-agent-lab) | Intentionally vulnerable tool-using support agent: five attacks, hardened redesign, and attack→control→retest evidence (local/mock only). |
+## Current focus
 
-## Web & API Security
+Prompt injection, agent permissions, API attack surfaces, and repeatable security testing. I'm interested in where untrusted context reaches sensitive data or actions, and how application controls can contain the failure.
 
-| Project | What it is |
-|---------|------------|
-| [webapp-security-portfolio](https://github.com/TerminalsandCoffee/webapp-security-portfolio) | Application security lab covering AWS WAF, OWASP attack scenarios, logging, analysis, and infrastructure as code. |
-| [detection-engineering-lab](https://github.com/TerminalsandCoffee/detection-engineering-lab) | Detection-as-code lab with Wazuh, MITRE ATT&CK-mapped detections, Terraform infrastructure, and CI validation. |
-
-## Current Research
-
-I'm increasingly focused on AI-native application security — especially the places where model behavior, application logic, untrusted context, APIs, and security controls intersect.
-
-Areas I'm exploring include:
-
-- Prompt injection and instruction-boundary failures
-- Indirect prompt injection
-- LLM security control bypasses
-- Agent and tool-use security
-- API attack-surface discovery
-- Automated security testing for AI applications
-
-The goal is simple:
-
-**Build the control. Break the control. Understand why it broke. Make the test repeatable.**
-
-## How I Build
+I'm also building [Secure Cloud Academy](https://securecloudacademy.com/).
 
 Python · Go · Terraform · FastAPI · AWS · GitHub Actions
 
-Cloud infrastructure is the delivery system.
-
-The work is web, API, and AI security.
-
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/rgmartinez-cloud/) · [Medium](https://medium.com/@terminalsandcoffee) · [Secure Cloud Academy](https://securecloudacademy.com/) · [rafael@terminalsandcoffee.com](mailto:rafael@terminalsandcoffee.com)
+[LinkedIn](https://www.linkedin.com/in/rgmartinez-cloud/) · [Medium](https://medium.com/@terminalsandcoffee) · [Secure Cloud Academy](https://securecloudacademy.com/) · [Email](mailto:rafael@terminalsandcoffee.com)
