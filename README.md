@@ -1,6 +1,4 @@
 # Rafael Martinez
-<img width="1026" height="465" alt="image" src="https://github.com/user-attachments/assets/c72d6dd3-14d2-48ff-b21e-1a1eada301c2" />
-
 I build and test security controls for web applications, APIs, and AI systems.
 
 My focus is practical: understand the architecture, reproduce a failure, improve the control, and make the test repeatable.
