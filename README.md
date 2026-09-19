@@ -1,8 +1,8 @@
 # Rafael M.
 
-I build **privacy-minded security tools** and the controls that keep them honest.
+Security researcher focused on **privacy-minded tools**, cloud application security, API/WAF controls, and AI agent trust boundaries.
 
-Day job: cloud application security and WAF. Side work: open tools that put you back in control of your data and desktop, plus labs that show how AI agents and detections fail under real attack pressure.
+I build open tools that put you back in control of your data and desktop, plus labs that show how agents and detections fail under real attack pressure — then harden and retest.
 
 ## Featured projects
 
