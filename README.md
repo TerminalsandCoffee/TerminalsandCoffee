@@ -1,23 +1,27 @@
 # Rafael M.
-I build and test security controls for web applications, APIs, and AI systems.
 
-My focus is practical: understand the architecture, reproduce a failure, improve the control, and make the test repeatable.
+I build **privacy-minded security tools** and the controls that keep them honest.
 
-## Selected work
+Day job: cloud application security and WAF. Side work: open tools that put you back in control of your data and desktop, plus labs that show how AI agents and detections fail under real attack pressure.
 
-| Project | Focus |
+## Featured projects
+
+| Project | What it is |
 |---|---|
-| [secure-ai-agent-lab](https://github.com/TerminalsandCoffee/secure-ai-agent-lab) | A local agent security lab with attacks, a hardened redesign, and attack-to-control retest evidence. |
-| [ai-security-architecture](https://github.com/TerminalsandCoffee/ai-security-architecture) | Threat modeling, trust boundaries, secure RAG and agent design, and architecture review exercises. |
-| [detection-engineering-lab](https://github.com/TerminalsandCoffee/detection-engineering-lab) | Wazuh detections mapped to MITRE ATT&CK, with infrastructure as code and validation tooling. |
+| [win-debloat](https://github.com/TerminalsandCoffee/win-debloat) | Privacy-first Windows hygiene — unhook OneDrive Desktop Known Folder Move, optional OneDrive uninstall, light Appx cleanup. **Defender and Windows Update stay on.** |
+| [ai-security-architecture](https://github.com/TerminalsandCoffee/ai-security-architecture) | Threat models, trust boundaries, secure RAG/agent design, and architecture review exercises. |
+| [detection-engineering-lab](https://github.com/TerminalsandCoffee/detection-engineering-lab) | Wazuh + Sysmon detections mapped to ATT&CK, with IaC and validation workflows. |
+| [AzureHoneyNet](https://github.com/TerminalsandCoffee/AzureHoneyNet) | Azure exposure lab — Sentinel telemetry, KQL detections, and the limits of before/after measurement. |
 
-## Current focus
+## How I work
 
-Prompt injection, agent permissions, API attack surfaces, and repeatable security testing. I'm interested in where untrusted context reaches sensitive data or actions, and how application controls can contain the failure.
+Understand the architecture → reproduce the failure → harden the control → make the test repeatable. Prefer small, auditable tools over opaque “debloat” scripts that gut your security stack.
 
-I'm also building [Secure Cloud Academy](https://securecloudacademy.com/).
+## Also building
 
-Python · Go · Terraform · FastAPI · AWS · GitHub Actions
+[Secure Cloud Academy](https://securecloudacademy.com/) — practitioner-built CompTIA study packs (Security+ live).
+
+Python · PowerShell · Terraform · FastAPI · AWS · Azure · GitHub Actions
 
 ## Connect
 
